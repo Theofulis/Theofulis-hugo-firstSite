@@ -12,4 +12,4 @@ theme = "ananke"
     url = "/about/"
     weight = -110
 
-  
+  HUGO_VERSION = "0.74.3"
