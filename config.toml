@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "FirstSite"
+theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about FirstSite"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+  
